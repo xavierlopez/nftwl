@@ -1,5 +1,0 @@
-{
-  "jwtPrivateKey": "unsecureKey",
-  "port": "3901",
-  "requiresAuth": false
-}
