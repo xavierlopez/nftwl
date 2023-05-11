@@ -1,0 +1,5 @@
+logfile.log
+uncaughtExceptions.log
+node_modules/
+coverage/
+uploads/*
