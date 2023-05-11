@@ -1,7 +1,7 @@
 {
   "name": "nftwl-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "NFT platform backend (REST API)",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
